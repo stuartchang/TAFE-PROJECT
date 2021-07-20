@@ -1,0 +1,21 @@
+C:\Users\student\Desktop\Project\DamV1\obj\Debug\DamV1.csprojAssemblyReference.cache
+C:\Users\student\Desktop\Project\DamV1\obj\Debug\DamV1.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Project\DamV1\bin\Debug\DamV1.exe.config
+C:\Users\student\Desktop\Project\DamV1\bin\Debug\DamV1.exe
+C:\Users\student\Desktop\Project\DamV1\bin\Debug\DamV1.pdb
+C:\Users\student\Desktop\Project\DamV1\obj\Debug\DamV1.exe
+C:\Users\student\Desktop\Project\DamV1\obj\Debug\DamV1.pdb
+C:\Users\student\Desktop\Programming\ICT\Week 1\DamV1\bin\Debug\DamV1.exe.config
+C:\Users\student\Desktop\Programming\ICT\Week 1\DamV1\bin\Debug\DamV1.exe
+C:\Users\student\Desktop\Programming\ICT\Week 1\DamV1\bin\Debug\DamV1.pdb
+C:\Users\student\Desktop\Programming\ICT\Week 1\DamV1\obj\Debug\DamV1.csprojAssemblyReference.cache
+C:\Users\student\Desktop\Programming\ICT\Week 1\DamV1\obj\Debug\DamV1.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Programming\ICT\Week 1\DamV1\obj\Debug\DamV1.exe
+C:\Users\student\Desktop\Programming\ICT\Week 1\DamV1\obj\Debug\DamV1.pdb
+C:\Users\stuar\Desktop\Programming\ICT\Week 1\DamV1\bin\Debug\DamV1.exe.config
+C:\Users\stuar\Desktop\Programming\ICT\Week 1\DamV1\bin\Debug\DamV1.exe
+C:\Users\stuar\Desktop\Programming\ICT\Week 1\DamV1\bin\Debug\DamV1.pdb
+C:\Users\stuar\Desktop\Programming\ICT\Week 1\DamV1\obj\Debug\DamV1.csproj.AssemblyReference.cache
+C:\Users\stuar\Desktop\Programming\ICT\Week 1\DamV1\obj\Debug\DamV1.csproj.CoreCompileInputs.cache
+C:\Users\stuar\Desktop\Programming\ICT\Week 1\DamV1\obj\Debug\DamV1.exe
+C:\Users\stuar\Desktop\Programming\ICT\Week 1\DamV1\obj\Debug\DamV1.pdb
