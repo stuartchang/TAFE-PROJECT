@@ -1,0 +1,7 @@
+C:\Users\stuar\Desktop\Programming\ICT\Week 1\UVIndexV2\bin\Debug\UVIndexV2.exe.config
+C:\Users\stuar\Desktop\Programming\ICT\Week 1\UVIndexV2\bin\Debug\UVIndexV2.exe
+C:\Users\stuar\Desktop\Programming\ICT\Week 1\UVIndexV2\bin\Debug\UVIndexV2.pdb
+C:\Users\stuar\Desktop\Programming\ICT\Week 1\UVIndexV2\obj\Debug\UVIndexV2.csproj.AssemblyReference.cache
+C:\Users\stuar\Desktop\Programming\ICT\Week 1\UVIndexV2\obj\Debug\UVIndexV2.csproj.CoreCompileInputs.cache
+C:\Users\stuar\Desktop\Programming\ICT\Week 1\UVIndexV2\obj\Debug\UVIndexV2.exe
+C:\Users\stuar\Desktop\Programming\ICT\Week 1\UVIndexV2\obj\Debug\UVIndexV2.pdb
