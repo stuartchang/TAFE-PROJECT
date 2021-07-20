@@ -1,0 +1,7 @@
+C:\Users\student\Source\Repos\TestV3\bin\Debug\TestV3.exe.config
+C:\Users\student\Source\Repos\TestV3\bin\Debug\TestV3.exe
+C:\Users\student\Source\Repos\TestV3\bin\Debug\TestV3.pdb
+C:\Users\student\Source\Repos\TestV3\obj\Debug\TestV3.csprojAssemblyReference.cache
+C:\Users\student\Source\Repos\TestV3\obj\Debug\TestV3.csproj.CoreCompileInputs.cache
+C:\Users\student\Source\Repos\TestV3\obj\Debug\TestV3.exe
+C:\Users\student\Source\Repos\TestV3\obj\Debug\TestV3.pdb
